@@ -18,6 +18,19 @@ html {
 
 body {
   margin: 0;
+  background-color: lightgray;
+}
+/* Navigation Section */
+.top-navigation {
+  background-color: #fff;
+}
+.top-navigation > .content {
+  width: 970px;
+  height: 70px;
+  margin: 0 auto;
+}
+.top-navigation .logo {
+  height: 4.375rem;
 }
 
 /* HTML5 display definitions
