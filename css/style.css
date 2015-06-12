@@ -28,9 +28,19 @@ body {
   width: 970px;
   height: 70px;
   margin: 0 auto;
+  font-family: "Roboto" , sans-serif;
+  font-size: 16px;
+  color: #838994;
+  letter-spacing: 0.03em;
+}
+.links {
+  float: right;
+  display: inline-block;
+  margin-top: 1.7rem;
 }
 .top-navigation .logo {
   height: 4.375rem;
+  padding: 0px 15px;
 }
 
 /* HTML5 display definitions
